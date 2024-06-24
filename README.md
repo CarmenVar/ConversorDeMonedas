@@ -18,5 +18,4 @@ Este proyecto es un conversor de monedas desarrollado en Java. Utiliza la API de
 
 1. Clonar el repositorio o descargar el código fuente.
 2. Asegurarse de tener Java 11 o superior instalado.
-3. Descargar y añadir la biblioteca Gson al proyecto. Puede descargarla desde [aquí](https://
-
+3. Descargar y añadir la biblioteca Gson al proyecto. 
